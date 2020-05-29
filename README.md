@@ -8,3 +8,9 @@ use github to host images
 ![mitrgbblock](https://user-images.githubusercontent.com/65909339/83127198-7e075f00-a0f7-11ea-8523-a9eddb464712.PNG)
 ![rgb (1)](https://user-images.githubusercontent.com/65909339/83129372-58c82000-a0fa-11ea-98f4-b7a8bb977928.jpg)
 ![rgb (2)](https://user-images.githubusercontent.com/65909339/83129376-5b2a7a00-a0fa-11ea-91fb-570b1e665deb.jpg)
+
+
+![calci1](https://user-images.githubusercontent.com/65909339/83284689-af1c8800-a1fa-11ea-9128-a076c5b350c9.PNG)
+![calci2](https://user-images.githubusercontent.com/65909339/83284696-b17ee200-a1fa-11ea-9b3c-d9b341f9b6dc.PNG)
+![t1](https://user-images.githubusercontent.com/65909339/83284702-b2b00f00-a1fa-11ea-91cc-5f96f2580170.PNG)
+![t2](https://user-images.githubusercontent.com/65909339/83284705-b3e13c00-a1fa-11ea-9702-5db3b8155a8c.PNG)
