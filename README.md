@@ -12,3 +12,10 @@ use github to host images
 ![calci2](https://user-images.githubusercontent.com/65909339/83284696-b17ee200-a1fa-11ea-9b3c-d9b341f9b6dc.PNG)
 ![t1](https://user-images.githubusercontent.com/65909339/83284702-b2b00f00-a1fa-11ea-91cc-5f96f2580170.PNG)
 ![t2](https://user-images.githubusercontent.com/65909339/83284705-b3e13c00-a1fa-11ea-9702-5db3b8155a8c.PNG)
+
+
+
+![robo_app](https://user-images.githubusercontent.com/65909339/86015071-bffd2b00-ba3e-11ea-97a9-57f11d649d04.jpeg)
+![app_control](https://user-images.githubusercontent.com/65909339/86015092-c5f30c00-ba3e-11ea-8c41-5cd607a9a563.PNG)
+![robo_app_withSpeed](https://user-images.githubusercontent.com/65909339/86015121-cd1a1a00-ba3e-11ea-8295-da897b98b86b.jpeg)
+![app_speed](https://user-images.githubusercontent.com/65909339/86015141-d30ffb00-ba3e-11ea-8cd8-b6638b7e009d.PNG)
